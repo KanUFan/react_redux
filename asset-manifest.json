@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_redux/static/css/main.2eecc0aa.css",
+    "main.js": "/react_redux/static/js/main.a81f7b97.js",
+    "static/media/delete.svg": "/react_redux/static/media/delete.a45d45e26950796f60ecf2fb2137d103.svg",
+    "index.html": "/react_redux/index.html",
+    "static/media/like.svg": "/react_redux/static/media/like.63ebbf34122d7d2ca99f69d75154276e.svg",
+    "main.2eecc0aa.css.map": "/react_redux/static/css/main.2eecc0aa.css.map",
+    "main.a81f7b97.js.map": "/react_redux/static/js/main.a81f7b97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eecc0aa.css",
+    "static/js/main.a81f7b97.js"
+  ]
+}
